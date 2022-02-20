@@ -51,6 +51,7 @@ void demo(void)
     j = 0;  // Before each line, we need to reset our string counter.
     // Also, for dramatic effect, we want to do a couple of things after
     //  specific lines.
+    //kyle test
     if ((i == 4) | (i == 3))
     {
       _delay_ms(750);
